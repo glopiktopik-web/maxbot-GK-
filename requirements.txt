@@ -1,0 +1,4 @@
+maxapi>=1.2.2
+python-dotenv>=1.0
+openpyxl>=3.1
+python-docx>=1.1
