@@ -1,5 +1,7 @@
-data/
+max_bot/data/
+max_bot/__pycache__/
+max_bot/.ruff_cache/
+max_bot/.env
 __pycache__/
 *.pyc
 .ruff_cache/
-.env
